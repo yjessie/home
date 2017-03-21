@@ -1,0 +1,21 @@
+body
+{
+	background:white;
+	margin:10% 15% 5% 15%;
+	color:gold;
+}
+h2
+{
+	margin:5% 0% 0% 0%;
+}
+img
+{
+	margin:5% 10% 5% 15%;
+	background:silver;
+}
+p
+{
+	text-indent:1em;
+	line-height:1.05;
+	margin:0%
+}
