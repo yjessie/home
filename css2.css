@@ -1,0 +1,14 @@
+body
+{
+	background:black;
+	color:white;
+	margin:10% 5% 10% 5%;
+	font-family:Verdana,"Times New Roman",serif;
+}/*body*/
+
+img
+{
+	border:solid red 10px;
+	background:white;
+	margin:5% 25% 5% 25%;
+}
